@@ -4,7 +4,7 @@
   "description": "A mocha unit test practice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "WeiChiaChang",
   "license": "MIT",
